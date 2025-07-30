@@ -1,0 +1,6 @@
+../Core/Src/dcm_seca.c:18:6:DCM_SECA_ProcessRequest	24	static
+../Core/Src/dcm_seca.c:55:6:DCM_SECA_RequestSeed	24	static
+../Core/Src/dcm_seca.c:81:6:DCM_SECA_SendKey	32	static
+../Core/Src/dcm_seca.c:122:6:DCM_SECA_GenerateSeed	16	static
+../Core/Src/dcm_seca.c:159:9:DCM_SECA_ValidateKey	32	static
+../Core/Src/dcm_seca.c:189:6:DCM_SECA_CalculateKey	16	static

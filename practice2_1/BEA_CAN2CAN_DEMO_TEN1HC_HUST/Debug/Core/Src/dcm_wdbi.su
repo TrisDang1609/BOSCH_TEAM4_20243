@@ -1,0 +1,2 @@
+../Core/Src/dcm_wdbi.c:16:6:DCM_WDBI_ProcessRequest	24	static
+../Core/Src/dcm_wdbi.c:55:6:DCM_WDBI_WriteCANIDValue	24	static

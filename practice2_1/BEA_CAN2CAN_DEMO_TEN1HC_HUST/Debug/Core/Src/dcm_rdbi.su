@@ -1,0 +1,2 @@
+../Core/Src/dcm_rdbi.c:16:6:DCM_RDBI_ProcessRequest	24	static
+../Core/Src/dcm_rdbi.c:44:6:DCM_RDBI_ReadCANIDValue	24	static

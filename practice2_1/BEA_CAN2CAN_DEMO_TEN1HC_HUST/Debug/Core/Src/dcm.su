@@ -1,0 +1,11 @@
+../Core/Src/dcm.c:36:6:DCM_ProcessRequest	24	static
+../Core/Src/dcm.c:71:6:DCM_ProcessDiagnosticRequest	16	static
+../Core/Src/dcm.c:98:6:DCM_SendResponse	24	static
+../Core/Src/dcm.c:127:6:DCM_SendNegativeResponse	24	static
+../Core/Src/dcm.c:141:6:DCM_ManageSecurityTimeout	8	static
+../Core/Src/dcm.c:157:9:DCM_IsSecurityLevel1Unlocked	4	static
+../Core/Src/dcm.c:170:6:CANTP_HandleFirstFrame	24	static
+../Core/Src/dcm.c:202:6:CANTP_HandleConsecutiveFrame	24	static
+../Core/Src/dcm.c:240:6:CANTP_HandleFlowControl	24	static
+../Core/Src/dcm.c:267:6:CANTP_SendFlowControl	24	static
+../Core/Src/dcm.c:289:6:CANTP_SendMultiFrame	48	static
